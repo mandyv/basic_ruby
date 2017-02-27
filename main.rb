@@ -52,7 +52,7 @@ def fizzy(max: 100)
 			puts "Fizz"
 		elseif num % 3 ==0
 			puts "Buzz"
-		else.
+		else
 			puts num
 		end
 	end
